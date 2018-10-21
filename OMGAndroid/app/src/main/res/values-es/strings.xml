@@ -1,0 +1,23 @@
+<resources>
+    <string name="title">Mesa QC</string>
+    <string name="app_name">Mesa QC</string>
+    <string name="sg_label">Gravedad Especifíca</string>
+    <string name="pw_label">Peso del Pycnometer y agua</string>
+    <string name="s_label">Peso de la Muestra</string>
+    <string name="spw_label">Peso del Muestra, Pyc y Agua</string>
+    <string name="k1">1</string>
+    <string name="k2">2</string>
+    <string name="k3">3</string>
+    <string name="k4">4</string>
+    <string name="k5">5</string>
+    <string name="k6">6</string>
+    <string name="k7">7</string>
+    <string name="k8">8</string>
+    <string name="k9">9</string>
+    <string name="kb">Atrás</string>
+    <string name="k0">0</string>
+    <string name="ke">Terminado</string>
+    <string name="action_settings">Idiomas</string>
+    <string name="title_activity_input">Entrada</string>
+
+</resources>

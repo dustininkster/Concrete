@@ -1,0 +1,23 @@
+<resources>
+    <string name="title">TEX-409-A</string>
+    <string name="app_name">TEX-409-A</string>
+    <string name="sg_label">Specific Gravity</string>
+    <string name="pw_label">Weight of Pycnometer and Water</string>
+    <string name="s_label">Weight of Sample</string>
+    <string name="spw_label">Weight of Sample, Pic, and Water</string>
+    <string name="k1">1</string>
+    <string name="k2">2</string>
+    <string name="k3">3</string>
+    <string name="k4">4</string>
+    <string name="k5">5</string>
+    <string name="k6">6</string>
+    <string name="k7">7</string>
+    <string name="k8">8</string>
+    <string name="k9">9</string>
+    <string name="kb">Back</string>
+    <string name="k0">0</string>
+    <string name="ke">Done</string>
+    <string name="action_settings">Languages</string>
+    <string name="title_activity_input">Input</string>
+
+</resources>
